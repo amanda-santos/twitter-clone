@@ -30,10 +30,10 @@ This project was developed with the following technologies:
 ## 💻 Preview
 
 <p align="center">
-  <img src="demo/twitter-desktop.gif" />
-  <img src="demo/twitter-tablet.gif" />
   <img src="demo/twitter-mobile.gif" />
-</p>>
+  <img src="demo/twitter-tablet.gif" />
+  <img src="demo/twitter-desktop.gif" />
+</p>
 
 ## 🖱 Usage
 
