@@ -29,11 +29,11 @@ This project was developed with the following technologies:
 
 ## 💻 Preview
 
-<img src="demo/twitter-desktop.gif" />
-<div style="display: grid">
-  <img src="demo/twitter-tablet.gif" width="60%" />
-  <img src="demo/twitter-mobile.gif" width="40%" />
-</div>
+<p align="center">
+  <img src="demo/twitter-desktop.gif" />
+  <img src="demo/twitter-tablet.gif" />
+  <img src="demo/twitter-mobile.gif" />
+</p>>
 
 ## 🖱 Usage
 
