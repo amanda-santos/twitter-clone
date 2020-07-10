@@ -30,8 +30,10 @@ This project was developed with the following technologies:
 ## 💻 Preview
 
 <img src="demo/twitter-desktop.gif" />
-<img src="demo/twitter-tablet.gif" width="60%" />
-<img src="demo/twitter-mobile.gif" width="30%" />
+<div style="display: grid">
+  <img src="demo/twitter-tablet.gif" width="60%" />
+  <img src="demo/twitter-mobile.gif" width="30%" />
+</div>
 
 ## 🖱 Usage
 
