@@ -32,7 +32,7 @@ This project was developed with the following technologies:
 <img src="demo/twitter-desktop.gif" />
 <div style="display: grid">
   <img src="demo/twitter-tablet.gif" width="60%" />
-  <img src="demo/twitter-mobile.gif" width="30%" />
+  <img src="demo/twitter-mobile.gif" width="40%" />
 </div>
 
 ## 🖱 Usage
